@@ -154,7 +154,7 @@ class _RecipeListState extends State<RecipeList> {
                     controller: searchTextController,
                   )),
 
-                  ///Create [PopMenuButton] ti sgiw orevuiys searches
+                  ///Create [PopMenuButton] to sign previous search
                   PopupMenuButton<String>(
                       icon: const Icon(
                         Icons.arrow_drop_down,
